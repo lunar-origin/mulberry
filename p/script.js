@@ -1070,7 +1070,13 @@ const study = lab.util.fromObject({
                 {
                   "required": true,
                   "type": "text",
-                  "title": "1. リーフレットのタイトルについて，空欄に当てはまるものを選んで下さい。「（　　）疲れていませんか？」",
+                  "title": "1. リーフレットのタイトルについて，空欄に当てはまるものを選んで下さい。",
+                  "content": ""
+                },
+                {
+                  "required": true,
+                  "type": "text",
+                  "title": " 「（　　）疲れていませんか？」",
                   "content": ""
                 },
                 {
